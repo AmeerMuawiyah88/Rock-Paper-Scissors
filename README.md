@@ -1,4 +1,4 @@
-# 😈 Stone Paper Scissors
+#  Stone Paper Scissors
 
 A simple and interactive **Stone Paper Scissors Game** built with **Python and Tkinter**.
 
